@@ -1,16 +1,15 @@
 ## " Web View :star: :heart: "
-<img src="./img" alt="GitHUB" align="center" >
-<img src="./img" alt="GitHUB" align="center" >
-<img src="./img" alt="GitHUB" align="center" >
+<img src="./img/1.web.png" alt="GitHUB" align="center" >
+<img src="./img/2.web.png" alt="GitHUB" align="center" >
 
 ## " Mobile View :star: :heart: "
-<img src="./img" alt="GitHUB" align="center" >
-<img src="./img" alt="GitHUB" align="center" >
+<img src="./img/3.mobile.png" alt="GitHUB" align="center" >
+<img src="./img/4.mobile.png" alt="GitHUB" align="center" >
 
 
 # Getting Started with Changing Theme App
 
-<a href="https://huzaifanizam.github.io/QR-Code-Generator/">Changing Theme App</a>
+<a href="https://huzaifanizam.github.io/Changing-Theme/">Changing Theme App</a>
 
 
 ### " Changing Theme App using HTML, CSS &amp; JavaScript"

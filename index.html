@@ -7,14 +7,20 @@
     <link rel="stylesheet" href="./styles/styles.css">
 </head>
 <body>
+    
     <div class="contanaior">
-        <div class="dayAndTime">
-            <div class="day">day</div>
-            <div class="time">time</div>
-        </div>
         <div class="dark-light">
-            <h1>text for tempery purpos</h1>
-            <button> Theme</button>
+            <div class="dayAndTime">
+                <div class="day display-date">
+                    <span id="day">day</span>,
+                    <span id="daynum">00</span>
+                    <span id="month">month</span>
+                    <span id="year">0000</span>
+                </div>
+                <div class="time display-time">time</div>
+            </div>
+            <h1>Toggle Dark / Light Mode</h1>
+            <button onclick="ChangeTheme()"> Theme</button>
         </div>
     </div>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js"></script>

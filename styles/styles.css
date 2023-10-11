@@ -34,6 +34,8 @@ body{
 .contanaior .dayAndTime{
     display: flex;
     justify-content: space-between;
+    margin-bottom: 20px;
+    padding: 3px;
 }
 .contanaior .dark-light button{
     padding: 10px 20px;
@@ -45,6 +47,7 @@ body{
     cursor: pointer;
     transition: 0.4s;
     border-radius: 8px;
+    transition: 0.5s ease-in-out;
     
 }
 .contanaior .dark-light button:hover{
