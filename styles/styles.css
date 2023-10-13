@@ -1,6 +1,6 @@
 :root{
     --dark-color:#262626;
-    --darkText-Colour:white;
+    --darkText-Colour:#B9D9EC;
     --button-color:#e67e22;
     --button-hovercolor:#2c3e50;
 }
@@ -22,7 +22,8 @@ body{
 }
 .light-mode{
     background: var(--darkText-Colour);
-    color: black;
+    /* color: black; */
+    color: var(--dark-color);
 }
 .contanaior{
     display: grid;
@@ -37,7 +38,8 @@ body{
     margin-bottom: 20px;
     padding: 3px;
     color: var(--button-color);
-    font-weight: 200px;
+    font-size: 25px;
+    font-weight: 600;
 }
 .contanaior .dark-light button{
     padding: 10px 20px;
