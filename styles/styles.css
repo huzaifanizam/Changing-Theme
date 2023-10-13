@@ -36,6 +36,8 @@ body{
     justify-content: space-between;
     margin-bottom: 20px;
     padding: 3px;
+    color: var(--button-color);
+    font-weight: 200px;
 }
 .contanaior .dark-light button{
     padding: 10px 20px;
