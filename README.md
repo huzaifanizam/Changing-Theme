@@ -25,6 +25,7 @@ The Changing Theme App app is created by [Huzaifa Nizam](https://www.linkedin.co
 ## Show some :heart: and :star: the repo if you like the design.
 
 - 📫 How to reach me **nizamhuzaifa@gmail.com**
+--
 
 
 <h3 align="left">Connect with me:</h3>
